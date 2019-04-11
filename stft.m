@@ -1,3 +1,4 @@
+%---C1769600 - George Browning
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %              Short-Time Fourier Transform            %
 %               with MATLAB Implementation             %

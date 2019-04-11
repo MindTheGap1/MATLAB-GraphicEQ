@@ -1,3 +1,4 @@
+%%---C1769600 - George Browning
 % wah_wah.m   state variable band pass
 % written by Ronan O'Malley
 % October 2nd 2005

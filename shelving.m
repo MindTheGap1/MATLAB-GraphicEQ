@@ -1,3 +1,4 @@
+%---C1769600 - George Browning
 function [b, a]  = shelving(G, fc, fs, Q, type)
 %
 % Derive coefficients for a shelving filter with a given amplitude and

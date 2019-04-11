@@ -1,3 +1,4 @@
+%---C1769600 - George Browning
 function y = peakfilt (x, Wc, Wb, G)
 % y = peakfilt (x, Wc, Wb, G)
 % Author: M. Holters

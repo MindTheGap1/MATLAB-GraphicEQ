@@ -1,3 +1,4 @@
+%---C1769600 - George Browning
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %             Spectral Envelope Extraction             %
 %              with MATLAB Implementation              %

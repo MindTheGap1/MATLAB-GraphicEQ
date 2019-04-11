@@ -1,3 +1,4 @@
+%---C1769600 - George Browning
 function varargout = main(varargin)
 % MAIN MATLAB code for main.fig
 %      MAIN, by itself, creates a new MAIN or raises the existing
@@ -560,8 +561,12 @@ function savepreset_Callback(hObject, eventdata, handles)
 %saves all slider values to a .mat file
 filter = {'.mat';'*.*'};
 [file,path] = uiputfile(filter);
-values = [get(handles.slider1, 'Value'); get(handles.slider2, 'Value'); get(handles.slider3, 'Value'); get(handles.slider4, 'Value'); get(handles.slider5, 'Value');
-    get(handles.slider6, 'Value'); get(handles.slider7, 'Value'); get(handles.slider8, 'Value'); get(handles.slider9, 'Value'); get(handles.slider10, 'Value'); get(handles.slider11, 'Value'); get(handles.panningslider, 'Value')];
+values = [get(handles.slider1, 'Value'); get(handles.slider2, 'Value');
+    get(handles.slider3, 'Value'); get(handles.slider4, 'Value'); 
+    get(handles.slider5, 'Value'); get(handles.slider6, 'Value'); 
+    get(handles.slider7, 'Value'); get(handles.slider8, 'Value'); 
+    get(handles.slider9, 'Value'); get(handles.slider10, 'Value'); 
+    get(handles.slider11, 'Value'); get(handles.panningslider, 'Value')];
 save(file, 'values');
 
 % --- Executes on button press in loadcarrier.

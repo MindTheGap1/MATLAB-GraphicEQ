@@ -1,3 +1,4 @@
+%---C1769600 - George Browning
 % matpan.m
 % script based on DAFX p 140 to
 % perform matrix based panning of mono sound to stereo

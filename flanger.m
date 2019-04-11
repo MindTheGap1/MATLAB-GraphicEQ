@@ -1,3 +1,4 @@
+%---C1769600 - George Browning
 % Ronan O'Malley
 % October 5th 2005
 % Chorus.m
